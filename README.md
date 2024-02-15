@@ -39,24 +39,24 @@ The repository includes not only the Python scripts for the algorithms but also 
 
 1. Navigate to the `Huffman` directory:
    ```bash
-   cd Huffman
+   cd Huffman/Code
    ```
 
 2. Run the Huffman's app:
    ```bash
-   python app.py
+   python MainGui.py
    ```
 
 ### LZW:
 
 1. Navigate to the `LZW` directory:
    ```bash
-   cd LZW
+   cd LZW/Code
    ```
 
 2. Run the LZW's app:
    ```bash
-   python app.py
+   jupyter notebook app.ipynb
    ```
 
 ## Contributing
