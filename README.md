@@ -5,9 +5,8 @@ This repository contains Python implementations of Huffman and LZM compression a
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage)
 - [Installation](#installation)
-- [Examples](#examples)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
